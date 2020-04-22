@@ -1,0 +1,17 @@
+{
+    "mentors": [
+        {
+            "name": "Charles",
+            "class": "Alpha"
+        },
+        {
+            "Name": "Israel",
+            "class": "Alpha"
+        },
+        {
+            "name": "Shalem",
+            "class": "Beta"
+        }
+
+    ]
+}
